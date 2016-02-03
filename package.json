@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-mock-location",
+  "version": "0.0.8",
+  "description": "Cordova Mock Location Check Plugin",
+  "author": "kosh",
+  "cordova": {
+    "id": "cordova-plugin-mock-location",
+    "platforms": "android"
+  },
+  "keywords": [
+    "cordova",
+    "mock",
+    "location",
+	"mock-location"
+  ],
+  "license": "MIT"
+}
