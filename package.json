@@ -7,6 +7,14 @@
     "id": "cordova-plugin-mock-location",
     "platforms": "android"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikoshik/cordova-plugin-mock-location.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikoshik/cordova-plugin-mock-location/issues"
+  },
+  "homepage": "https://github.com/ikoshik/cordova-plugin-mock-location#readme",
   "keywords": [
     "cordova",
     "mock",
