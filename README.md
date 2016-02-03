@@ -6,6 +6,16 @@ This is a cordova plugin to check enabled\disabled GPS imitations in android set
 
 - Android
 
+## Installation
+
+Cordova remote build
+
+    <gap:plugin name="cordova-plugin-mock-location" source="npm" />
+
+Cordova local build
+
+    cordova plugin add https://github.com/ikoshik/cordova-plugin-mock-location.git
+
 ## Usage
 
 ```js
